@@ -1,0 +1,21 @@
+h1 {
+	font-size: 15pt;
+	line-height: 3;
+	font-family: cursive;
+	color: #F9D0FF;
+}
+
+body{
+	background-color: #E473F5;
+}
+
+img{
+	/*width:300px;*/
+	height:350px;
+}
+
+h2{
+	text-align: center;
+}
+
+/*more space in between dog pictures and list, click on each dog image for new page on fun facts*/
